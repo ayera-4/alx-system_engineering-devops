@@ -1,0 +1,1 @@
+Directory contains a command file.
